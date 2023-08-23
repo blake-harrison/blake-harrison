@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats-alpha-virid.vercel.app/api?username=blake-harrison&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-alpha-virid.vercel.app/api?username=blake-harrison&theme=chartreuse-dark&show_icons=true)
 
 <!--
 **blake-harrison/blake-harrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
